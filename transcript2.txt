@@ -1,0 +1,322 @@
+----- Transcript file transcript2.txt started Mon Mar 22 07:42:43 CST 1999
+Inserting 15
+HEIGHT =2
+At level 1 compared 15 to: infinity
+At level 0 compared 15 to: infinity
+Level 1: 15
+Level 0: 15
+Inserting 25
+HEIGHT =2
+At level 1 compared 25 to: 15 infinity
+At level 0 compared 25 to: infinity
+Level 1: 15 25
+Level 0: 15 25
+Inserting 87
+Expanding Head and Tail to height of: 8
+HEIGHT =8
+At level 7 compared 87 to: infinity
+At level 6 compared 87 to: infinity
+At level 5 compared 87 to: infinity
+At level 4 compared 87 to: infinity
+At level 3 compared 87 to: infinity
+At level 2 compared 87 to: infinity
+At level 1 compared 87 to: 15 25 infinity
+At level 0 compared 87 to: infinity
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87
+Level 1: 15 25 87
+Level 0: 15 25 87
+Inserting 102
+HEIGHT =2
+At level 7 compared 102 to: 87 infinity
+At level 6 compared 102 to: infinity
+At level 5 compared 102 to: infinity
+At level 4 compared 102 to: infinity
+At level 3 compared 102 to: infinity
+At level 2 compared 102 to: infinity
+At level 1 compared 102 to: infinity
+At level 0 compared 102 to: infinity
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87
+Level 1: 15 25 87 102
+Level 0: 15 25 87 102
+Inserting 241
+HEIGHT =2
+At level 7 compared 241 to: 87 infinity
+At level 6 compared 241 to: infinity
+At level 5 compared 241 to: infinity
+At level 4 compared 241 to: infinity
+At level 3 compared 241 to: infinity
+At level 2 compared 241 to: infinity
+At level 1 compared 241 to: 102 infinity
+At level 0 compared 241 to: infinity
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87
+Level 1: 15 25 87 102 241
+Level 0: 15 25 87 102 241
+Inserting 333
+HEIGHT =1
+At level 7 compared 333 to: 87 infinity
+At level 6 compared 333 to: infinity
+At level 5 compared 333 to: infinity
+At level 4 compared 333 to: infinity
+At level 3 compared 333 to: infinity
+At level 2 compared 333 to: infinity
+At level 1 compared 333 to: 102 241 infinity
+At level 0 compared 333 to: infinity
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87
+Level 1: 15 25 87 102 241
+Level 0: 15 25 87 102 241 333
+Inserting 441
+HEIGHT =3
+At level 7 compared 441 to: 87 infinity
+At level 6 compared 441 to: infinity
+At level 5 compared 441 to: infinity
+At level 4 compared 441 to: infinity
+At level 3 compared 441 to: infinity
+At level 2 compared 441 to: infinity
+At level 1 compared 441 to: 102 241 infinity
+At level 0 compared 441 to: 333 infinity
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87 441
+Level 1: 15 25 87 102 241 441
+Level 0: 15 25 87 102 241 333 441
+Inserting 630
+HEIGHT =1
+At level 7 compared 630 to: 87 infinity
+At level 6 compared 630 to: infinity
+At level 5 compared 630 to: infinity
+At level 4 compared 630 to: infinity
+At level 3 compared 630 to: infinity
+At level 2 compared 630 to: 441 infinity
+At level 1 compared 630 to: infinity
+At level 0 compared 630 to: infinity
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87 441
+Level 1: 15 25 87 102 241 441
+Level 0: 15 25 87 102 241 333 441 630
+Inserting 727
+HEIGHT =2
+At level 7 compared 727 to: 87 infinity
+At level 6 compared 727 to: infinity
+At level 5 compared 727 to: infinity
+At level 4 compared 727 to: infinity
+At level 3 compared 727 to: infinity
+At level 2 compared 727 to: 441 infinity
+At level 1 compared 727 to: infinity
+At level 0 compared 727 to: 630 infinity
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87 441
+Level 1: 15 25 87 102 241 441 727
+Level 0: 15 25 87 102 241 333 441 630 727
+Inserting 827
+HEIGHT =2
+At level 7 compared 827 to: 87 infinity
+At level 6 compared 827 to: infinity
+At level 5 compared 827 to: infinity
+At level 4 compared 827 to: infinity
+At level 3 compared 827 to: infinity
+At level 2 compared 827 to: 441 infinity
+At level 1 compared 827 to: 727 infinity
+At level 0 compared 827 to: infinity
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87 441
+Level 1: 15 25 87 102 241 441 727 827
+Level 0: 15 25 87 102 241 333 441 630 727 827
+Attempting to remove key: 12
+Searching for 12
+At level 7 compared 12 to: 87
+At level 6 compared 12 to: 87
+At level 5 compared 12 to: 87
+At level 4 compared 12 to: 87
+At level 3 compared 12 to: 87
+At level 2 compared 12 to: 87
+At level 1 compared 12 to: 15
+At level 0 compared 12 to: 15
+It was not found.
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87 441
+Level 1: 15 25 87 102 241 441 727 827
+Level 0: 15 25 87 102 241 333 441 630 727 827
+It was not found, so key was not deleted.
+Attempting to remove key: 15
+Searching for 15
+At level 7 compared 15 to: 87
+At level 6 compared 15 to: 87
+At level 5 compared 15 to: 87
+At level 4 compared 15 to: 87
+At level 3 compared 15 to: 87
+At level 2 compared 15 to: 87
+At level 1 compared 15 to: 15
+Found Key:15
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87 441
+Level 1: 25 87 102 241 441 727 827
+Level 0: 25 87 102 241 333 441 630 727 827
+Successfully deleted key 15.
+Seeking the successor to: 102
+Searching for 102
+At level 7 compared 102 to: 87 infinity
+At level 6 compared 102 to: infinity
+At level 5 compared 102 to: infinity
+At level 4 compared 102 to: infinity
+At level 3 compared 102 to: infinity
+At level 2 compared 102 to: 441
+At level 1 compared 102 to: 102
+Found Key:102
+The successor to 102 is 241
+Attempting to remove key: 630
+Searching for 630
+At level 7 compared 630 to: 87 infinity
+At level 6 compared 630 to: infinity
+At level 5 compared 630 to: infinity
+At level 4 compared 630 to: infinity
+At level 3 compared 630 to: infinity
+At level 2 compared 630 to: 441 infinity
+At level 1 compared 630 to: 727
+At level 0 compared 630 to: 630
+Found Key:630
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87 441
+Level 1: 25 87 102 241 441 727 827
+Level 0: 25 87 102 241 333 441 727 827
+Successfully deleted key 630.
+Searching for 85
+At level 7 compared 85 to: 87
+At level 6 compared 85 to: 87
+At level 5 compared 85 to: 87
+At level 4 compared 85 to: 87
+At level 3 compared 85 to: 87
+At level 2 compared 85 to: 87
+At level 1 compared 85 to: 25 87
+At level 0 compared 85 to: 87
+It was not found.
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87 441
+Level 1: 25 87 102 241 441 727 827
+Level 0: 25 87 102 241 333 441 727 827
+Seeking the predecessor to: 15
+Searching for 15
+At level 7 compared 15 to: 87
+At level 6 compared 15 to: 87
+At level 5 compared 15 to: 87
+At level 4 compared 15 to: 87
+At level 3 compared 15 to: 87
+At level 2 compared 15 to: 87
+At level 1 compared 15 to: 25
+At level 0 compared 15 to: 25
+It was not found.
+Level 7: 87
+Level 6: 87
+Level 5: 87
+Level 4: 87
+Level 3: 87
+Level 2: 87 441
+Level 1: 25 87 102 241 441 727 827
+Level 0: 25 87 102 241 333 441 727 827
+The predecessor to 15 is 727
+Seeking the successor to: 827
+Searching for 827
+At level 7 compared 827 to: 87 infinity
+At level 6 compared 827 to: infinity
+At level 5 compared 827 to: infinity
+At level 4 compared 827 to: infinity
+At level 3 compared 827 to: infinity
+At level 2 compared 827 to: 441 infinity
+At level 1 compared 827 to: 727 827
+Found Key:827
+There is no successor.
+Seeking the predecessor to: 102
+Searching for 102
+At level 7 compared 102 to: 87 infinity
+At level 6 compared 102 to: infinity
+At level 5 compared 102 to: infinity
+At level 4 compared 102 to: infinity
+At level 3 compared 102 to: infinity
+At level 2 compared 102 to: 441
+At level 1 compared 102 to: 102
+Found Key:102
+The predecessor to 102 is 87
+Seeking the successor to: 102
+Searching for 102
+At level 7 compared 102 to: 87 infinity
+At level 6 compared 102 to: infinity
+At level 5 compared 102 to: infinity
+At level 4 compared 102 to: infinity
+At level 3 compared 102 to: infinity
+At level 2 compared 102 to: 441
+At level 1 compared 102 to: 102
+Found Key:102
+The successor to 102 is 241
+Seeking the predecessor to: 441
+Searching for 441
+At level 7 compared 441 to: 87 infinity
+At level 6 compared 441 to: infinity
+At level 5 compared 441 to: infinity
+At level 4 compared 441 to: infinity
+At level 3 compared 441 to: infinity
+At level 2 compared 441 to: 441
+Found Key:441
+The predecessor to 441 is 333
+Seeking the successor to: 441
+Searching for 441
+At level 7 compared 441 to: 87 infinity
+At level 6 compared 441 to: infinity
+At level 5 compared 441 to: infinity
+At level 4 compared 441 to: infinity
+At level 3 compared 441 to: infinity
+At level 2 compared 441 to: 441
+Found Key:441
+The successor to 441 is 727
+Maximum value in skiplist: 827
+Minimum value in skiplist: 25
+----- Transcript file transcript2.txt closed Mon Mar 22 07:42:44 CST 1999
